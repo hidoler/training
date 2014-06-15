@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="sendMessage"
-            android:text="@string/str_btn_send" />
+            android:text="@string/str_btn_ok" />
 
     </LinearLayout>
 </LinearLayout>
